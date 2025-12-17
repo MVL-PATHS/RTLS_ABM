@@ -8,5 +8,6 @@ This repository contains an **AnyLogic agent-based model (ABM)** that uses **Rea
 
 ---
 
-## 
+## Input Data:
+The model uses an RTLS input file named Hospital Data.csv. This file contains the columns tagId, time, type, x1, and y1. The tagId uniquely identifies each tracked entity, while time records the timestamp of each location update. The type column indicates the agent category associated with each tag, such as healthcare worker roles (for example, nurse or doctor) or medical devices. The x1 and y1 columns store spatial coordinates, which are used to drive agent movement and determine interactions within the simulation.
 
