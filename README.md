@@ -8,5 +8,5 @@ This repository contains an **AnyLogic agent-based model (ABM)** that uses **Rea
 
 ---
 
-## Repository Contents
+## 
 
